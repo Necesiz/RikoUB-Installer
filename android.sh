@@ -21,7 +21,7 @@ pkg install python git -y
 echo -e "${YELLOW}📂 Fayllar GitHub-dan endirilir...${NC}"
 rm -rf RikoUB
 # Sənin yeni GitHub adınla yükləyirik:
-git clone https://github.com/Necesiz/1s.git
+git clone https://github.com/Necesiz/1s
 
 # BURADA YOXLAYIRIQ: Qovluq yarandımı?
 if [ ! -d "RikoUB" ]; then
